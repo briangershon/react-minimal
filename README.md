@@ -4,17 +4,14 @@ Start simple with as few dependencies as possible.
 
 * Styling with default fonts that look great across operating systems.
 * A modern development environment with
-  * Lint
-  * Support for es6 modules
-  * Unit testing
-  * Hot reloading
-  * Compile to es5 to run across a wide range of browsers
+  * Lint (via ESLint with Airbnb style)
+  * Support for es6 modules and hot reloading (via Parse Bundler)
+  * Unit tests (via Jest)
+  * Compile to es5 to run across a wide range of browsers (via Babel)
 
-## Install it
+## Run the starter project
 
-    npm install
-
-## Run it
+    npm install  # install dependencies
 
     npm start
     # visit http://localhost:1234
