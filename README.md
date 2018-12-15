@@ -1,9 +1,10 @@
 # Simple Front-end Starter
 
-Start simple with as few dependencies as possible.
+React with minimal dependencies and tools.
 
 * Styling with default fonts that look great across operating systems.
-* A modern development environment with
+
+* A development environment with
   * Lint (via ESLint with Airbnb style)
   * Support for es6 modules and hot reloading (via Parse Bundler)
   * Unit tests (via Jest)
