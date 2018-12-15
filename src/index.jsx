@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './components/app';
-import { getMessage } from './hello';
+import getMessage from './hello';
 
 ReactDOM.render(
   (

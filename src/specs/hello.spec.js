@@ -1,4 +1,4 @@
-import { getMessage } from '../hello';
+import getMessage from '../hello';
 
 test('has default message', () => {
   const message = getMessage();
