@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "eslint src/**/*.jsx src/specs/*.js",
     "start": "parcel index.html",
-    "build": "rm dist/* && parcel build --no-source-maps index.html",
+    "build": "rm -f dist/* && parcel build --no-source-maps index.html",
     "test": "jest specs --watch"
   },
   "author": "Brian Gershon",
