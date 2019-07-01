@@ -1,3 +1,3 @@
 export default function getMessage() {
-  return 'Enjoy Simple Front-end Starter with React!';
+  return 'Welcome to your React site, built with minimal dependencies.';
 }
