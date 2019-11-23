@@ -9,6 +9,7 @@ React with minimal dependencies and tools.
   * Compile to es5 to run across a wide range of browsers (via Babel)
   * Unit tests (via Jest)
   * Lint (via ESLint Airbnb style)
+  * Continuous Integration workflow with Github Actions
 
 * Styling with default fonts that look great across operating systems.
 
