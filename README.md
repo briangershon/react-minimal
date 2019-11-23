@@ -2,6 +2,8 @@
 
 React with minimal dependencies and tools.
 
+![Build Status](https://github.com/briangershon/react-minimal/workflows/Continuous%20Integration/badge.svg)
+
 * Includes a development environment with:
   * Support for es6 modules and hot reloading (via Parcel Bundler)
   * Compile to es5 to run across a wide range of browsers (via Babel)
