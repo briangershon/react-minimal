@@ -1,5 +1,5 @@
 {
-  "name": "simple-frontend-starter",
+  "name": "react-minimal",
   "version": "1.0.2",
   "description": "A clean, simple front-end starter",
   "main": "src/index.js",
@@ -24,7 +24,7 @@
     "eslint-plugin-jest": "^23.1.1",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.17.0",
-    "jest": "^24.9.0",
+    "jest": "^25.3.0",
     "parcel-bundler": "^1.12.4"
   },
   "private": true,
