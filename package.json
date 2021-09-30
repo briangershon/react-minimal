@@ -1,6 +1,6 @@
 {
   "name": "react-minimal",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A clean, simple front-end starter",
   "source": "src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
