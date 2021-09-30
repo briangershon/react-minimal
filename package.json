@@ -2,7 +2,8 @@
   "name": "react-minimal",
   "version": "1.0.4",
   "description": "A clean, simple front-end starter",
-  "main": "src/index.js",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "lint": "eslint src/**/*.jsx src/specs/*.js",
     "start": "parcel index.html",
@@ -26,7 +27,7 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.26.0",
     "jest": "^27.2.4",
-    "parcel-bundler": "^1.12.5"
+    "parcel": "^2.0.0-rc.0"
   },
   "private": true,
   "dependencies": {
