@@ -1,6 +1,6 @@
 # react-minimal
 
-React with minimal dependencies and tools.
+A starter React.js project with curated dependencies and tools.
 
 ![Build Status](https://github.com/briangershon/react-minimal/workflows/Continuous%20Integration/badge.svg)
 
