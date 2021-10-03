@@ -9,8 +9,7 @@
     "start": "parcel index.html",
     "build": "rm -f dist/* && parcel build --no-source-maps index.html",
     "test": "jest specs --watch",
-    "test-ci": "jest specs",
-    "preinstall": "npx npm-force-resolutions"
+    "test-ci": "jest specs"
   },
   "author": "Brian Gershon",
   "license": "MIT",
@@ -35,8 +34,5 @@
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
-  },
-  "resolutions": {
-    "node-forge": "0.10.0"
   }
 }
