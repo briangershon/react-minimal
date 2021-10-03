@@ -19,7 +19,7 @@ A starter React.js project with curated dependencies and tools.
     npm install  # install dependencies
 
     npm start
-    # visit http://localhost:1234
+    # visit http://localhost:8080/
 
 ## Run Tests
 
