@@ -10,6 +10,7 @@ React with minimal dependencies and tools.
   * Unit tests (via Jest)
   * Continuous Integration workflow with Github Actions
   * Prettier config
+  * Snowpack configuration includes a rollup setting to avoid duplicate `react` and `react-dom` when importing CJS modules (which breaks hooks). This setting not used by this starter but avoids potential future problem I've run into with Snowpack projects.
 
 * Styling with default fonts that look great across operating systems.
 
